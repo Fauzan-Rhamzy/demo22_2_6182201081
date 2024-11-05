@@ -2,4 +2,4 @@ ini file 1
 
 ini diedit dari GitHub file 1.txt
 
-ini diedit di local file1
+ini diedit di local file1.txt
