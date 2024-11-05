@@ -1,3 +1,5 @@
 ini file 2
 
 Ini diedit dari GitHub file2.txt
+
+ini diedit di local file2
